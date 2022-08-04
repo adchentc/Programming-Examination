@@ -5,7 +5,6 @@ using namespace std;
 
 int main() {
     int N;
-    
     while(cin >> N) {
         vector<pair<long long, long long>> v;
         long long mbee = 0;

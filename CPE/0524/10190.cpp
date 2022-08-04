@@ -24,7 +24,6 @@ int main() {
             cout << v[n] << " ";
         }
         cout << endl;
-        // v.clear();
     }
     return 0;
 }
